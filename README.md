@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Medha-Naik/leetcode/tree/master/0015-3sum) |
 | [0130-surrounded-regions](https://github.com/Medha-Naik/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Medha-Naik/leetcode/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/Medha-Naik/leetcode/tree/master/1020-number-of-enclaves) |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Medha-Naik/leetcode/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/Medha-Naik/leetcode/tree/master/1020-number-of-enclaves) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Medha-Naik/leetcode/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Medha-Naik/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
