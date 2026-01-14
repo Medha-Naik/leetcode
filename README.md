@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Medha-Naik/leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Medha-Naik/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Medha-Naik/leetcode/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/Medha-Naik/leetcode/tree/master/1020-number-of-enclaves) |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Medha-Naik/leetcode/tree/master/0015-3sum) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Medha-Naik/leetcode/tree/master/0127-word-ladder) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Medha-Naik/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
