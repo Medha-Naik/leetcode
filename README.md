@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Medha-Naik/leetcode/tree/master/0015-3sum) |
+| [0074-search-a-2d-matrix](https://github.com/Medha-Naik/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Medha-Naik/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Medha-Naik/leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Medha-Naik/leetcode/tree/master/0994-rotting-oranges) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Medha-Naik/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Medha-Naik/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Medha-Naik/leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Medha-Naik/leetcode/tree/master/0994-rotting-oranges) |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Medha-Naik/leetcode/tree/master/0785-is-graph-bipartite) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Medha-Naik/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
