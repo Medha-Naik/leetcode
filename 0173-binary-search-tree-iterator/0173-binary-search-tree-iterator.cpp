@@ -9,9 +9,18 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
 class BSTIterator {
 public:
     stack<TreeNode*>st;
+    void pushall(TreeNode *temp)
+    {
+        while(temp!=NULL)
+        {
+            st.push(temp);
+            temp=temp->left;
+        }
+    }
     BSTIterator(TreeNode* root) {
         pushall(root);
     }
@@ -23,16 +32,9 @@ public:
         return temp->val;       
     }
     
-    void pushall(TreeNode *temp)
-    {
-        while(temp!=NULL)
-        {
-            st.push(temp);
-            temp=temp->left;
-        }
-    }
+    
     bool hasNext() {
-        return (st.size()>0);
+        return !st.empty();
     }
 };
 
