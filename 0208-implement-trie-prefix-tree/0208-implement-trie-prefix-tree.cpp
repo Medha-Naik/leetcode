@@ -10,9 +10,9 @@ struct Node{
     {
         return links[ch-'a'];
     }
-    void put(char ch,Node * node)
+    void put(char ch, Node * node)
     {
-     links[ch-'a']=node;
+        links[ch-'a']=node;
     }
     void setEnd()
     {
@@ -23,6 +23,7 @@ struct Node{
         return flag;
     }
 };
+
 
 
 
@@ -57,11 +58,11 @@ public:
     }
     
     bool startsWith(string prefix) {
-        Node * node= root;
+        Node * node=root;
         for(int i=0;i<prefix.length();i++)
         {
             if(!node->containskey(prefix[i]))return false;
-            node=node->get(prefix[i]);
+            node= node->get(prefix[i]);
         }
         return true;
     }
