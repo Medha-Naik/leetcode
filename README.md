@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Medha-Naik/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Medha-Naik/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/Medha-Naik/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Medha-Naik/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Medha-Naik/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
@@ -180,11 +181,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Medha-Naik/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Medha-Naik/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/Medha-Naik/leetcode/tree/master/0355-design-twitter) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Medha-Naik/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Medha-Naik/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/Medha-Naik/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Medha-Naik/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Medha-Naik/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Medha-Naik/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Medha-Naik/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/Medha-Naik/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Medha-Naik/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Medha-Naik/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Medha-Naik/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0355-design-twitter](https://github.com/Medha-Naik/leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Medha-Naik/leetcode/tree/master/0621-task-scheduler) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Medha-Naik/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Medha-Naik/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Medha-Naik/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Medha-Naik/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -259,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Medha-Naik/leetcode/tree/master/0621-task-scheduler) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Medha-Naik/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
