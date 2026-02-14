@@ -6,23 +6,20 @@ public:
         {
             freq[num]++;
         }
-        priority_queue<pair<int,int>,
-        vector<pair<int,int>>,
-        greater<pair<int,int>>>pq;
+        int n=nums.size();
+        vector<vector<int>>bucket(n+1);
         for(auto &p:freq)
         {
-            pq.push({p.second,p.first});
-            if(pq.size()>k)
-            {
-                pq.pop();
-            }
+            bucket[p.second].push_back(p.first);
         }
         vector<int>res;
-        while(!pq.empty())
+        for(int i=n;i>=1&&res.size()<k;i--)
         {
-            auto it=pq.top();
-            pq.pop();
-            res.push_back(it.second);
+            for(auto it:bucket[i])
+            {
+                res.push_back(it);
+                if(res.size()==k)break;
+            }
         }
         return res;
     }
