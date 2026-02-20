@@ -1,48 +1,43 @@
 class Solution {
 public:
-    int calchashvalue(string a,int n)
-    {   
-        long long mod=1e9+7;
-        int base=26;
-        long long res=0;
-        long long pow=1;
-        for(int i=n-1;i>=0;i--)
-        {
-            res=((res+(a[i]-'a')*pow))%mod;
-            pow=(pow*base)%mod;
+    int rabinKarp(string& text, string& pattern) {
+        int t = text.size(), n = pattern.size();
+        long long mod = 1e9 + 7, base = 26;
+        
+        long long power = 1;
+        for (int i = 0; i < n - 1; i++) power = power * base % mod;
+        
+        long long hashP = 0, hashW = 0;
+        for (int i = 0; i < n; i++) {
+            hashP = (hashP * base + (pattern[i] - 'a')) % mod;
+            hashW = (hashW * base + (text[i] - 'a')) % mod;
         }
-        return res;
-    }
-    int repeatedStringMatch(string a, string b) {
-        int m=a.size();
-        int n=b.size();
-        int cnt=1;
-        string repeated=a;
-        while(repeated.size()<m+n)
-        {
-            cnt++;
-            repeated+=a;
-        }
-        int hashpattern=calchashvalue(b,n);
-       for(int i=0;i<=repeated.size()-n;i++)
-       {
-            string s=repeated.substr(i,n);
-            int hashtext=calchashvalue(s,n);
-            if(hashtext==hashpattern)
-            {   bool match=true;
-                for(int j=0;j<n;j++)
-                {
-                    if(s[j]!=b[j])
-                    {
-                        match=false;
-                        break;
-                    }
-                }
-                if(match)return (i+m+n-1)/m;
+        
+        for (int i = 0; i <= t - n; i++) {
+            if (hashW == hashP) {
+                if (text.substr(i, n) == pattern) return i;
             }
-       }
-      
-      return -1;
+            if (i + n < t) {
+                hashW = (hashW - (text[i] - 'a') * power % mod + mod) % mod;
+                hashW = (hashW * base + (text[i + n] - 'a')) % mod;
+            }
+        }
+        return -1;
     }
-    
+
+    int repeatedStringMatch(string a, string b) {
+        int m = a.size(), n = b.size();
+        
+        string repeated = a;
+        int cnt = 1;
+        while ((int)repeated.size() < n) {
+            repeated += a;
+            cnt++;
+        }
+        repeated += a; cnt++;
+        
+        int idx = rabinKarp(repeated, b);
+        if (idx == -1) return -1;
+        return (idx + n + m - 1) / m;
+    }
 };
