@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Medha-Naik/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Medha-Naik/leetcode/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/Medha-Naik/leetcode/tree/master/0846-hand-of-straights) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Medha-Naik/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Medha-Naik/leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Medha-Naik/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Medha-Naik/leetcode/tree/master/1020-number-of-enclaves) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Medha-Naik/leetcode/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/Medha-Naik/leetcode/tree/master/0846-hand-of-straights) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Medha-Naik/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Medha-Naik/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Medha-Naik/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -343,5 +345,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Medha-Naik/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Medha-Naik/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Medha-Naik/leetcode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Medha-Naik/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Medha-Naik/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
