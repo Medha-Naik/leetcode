@@ -6,18 +6,17 @@ public:
         while(low<=high)
         {
             int mid=(low+high)/2;
-            lowest=min(nums[mid],lowest);
+            lowest=min(lowest,nums[mid]);
             if(nums[low]<=nums[mid])
             {
-                lowest=min(nums[low],lowest);
+                lowest=min(lowest,nums[low]);
                 low=mid+1;
             }
             else{
-                lowest=min(nums[low],lowest);
+                lowest=min(lowest,nums[mid+1]);
                 high=mid-1;
             }
         }
-           return lowest;
+        return lowest;
     }
- 
 };
