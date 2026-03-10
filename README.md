@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Medha-Naik/leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1929-concatenation-of-array](https://github.com/Medha-Naik/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Medha-Naik/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2560-house-robber-iv](https://github.com/Medha-Naik/leetcode/tree/master/2560-house-robber-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Medha-Naik/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Medha-Naik/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Medha-Naik/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2560-house-robber-iv](https://github.com/Medha-Naik/leetcode/tree/master/2560-house-robber-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Medha-Naik/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Medha-Naik/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/Medha-Naik/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2560-house-robber-iv](https://github.com/Medha-Naik/leetcode/tree/master/2560-house-robber-iv) |
 ## Topological Sort
 |  |
 | ------- |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Medha-Naik/leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Medha-Naik/leetcode/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Medha-Naik/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2560-house-robber-iv](https://github.com/Medha-Naik/leetcode/tree/master/2560-house-robber-iv) |
 ## Recursion
 |  |
 | ------- |
