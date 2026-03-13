@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Medha-Naik/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/Medha-Naik/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Medha-Naik/leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1901-find-a-peak-element-ii](https://github.com/Medha-Naik/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/Medha-Naik/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Medha-Naik/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2560-house-robber-iv](https://github.com/Medha-Naik/leetcode/tree/master/2560-house-robber-iv) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Medha-Naik/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Medha-Naik/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Medha-Naik/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1901-find-a-peak-element-ii](https://github.com/Medha-Naik/leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Medha-Naik/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Medha-Naik/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/Medha-Naik/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1901-find-a-peak-element-ii](https://github.com/Medha-Naik/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2560-house-robber-iv](https://github.com/Medha-Naik/leetcode/tree/master/2560-house-robber-iv) |
 ## Topological Sort
 |  |
