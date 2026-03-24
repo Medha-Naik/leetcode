@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Medha-Naik/leetcode/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/Medha-Naik/leetcode/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/Medha-Naik/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0930-binary-subarrays-with-sum](https://github.com/Medha-Naik/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Medha-Naik/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Medha-Naik/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Medha-Naik/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Medha-Naik/leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Medha-Naik/leetcode/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/Medha-Naik/leetcode/tree/master/0846-hand-of-straights) |
+| [0930-binary-subarrays-with-sum](https://github.com/Medha-Naik/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Medha-Naik/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Medha-Naik/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Medha-Naik/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Medha-Naik/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Medha-Naik/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/Medha-Naik/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Medha-Naik/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Simulation
 |  |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Medha-Naik/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Medha-Naik/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Medha-Naik/leetcode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Medha-Naik/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Medha-Naik/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Medha-Naik/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Medha-Naik/leetcode/tree/master/1480-running-sum-of-1d-array) |
