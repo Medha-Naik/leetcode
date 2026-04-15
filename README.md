@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Medha-Naik/leetcode/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/Medha-Naik/leetcode/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/Medha-Naik/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/Medha-Naik/leetcode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Medha-Naik/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Medha-Naik/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Medha-Naik/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Medha-Naik/leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Medha-Naik/leetcode/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/Medha-Naik/leetcode/tree/master/0846-hand-of-straights) |
+| [0912-sort-an-array](https://github.com/Medha-Naik/leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Medha-Naik/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Medha-Naik/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Medha-Naik/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/Medha-Naik/leetcode/tree/master/0912-sort-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Medha-Naik/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Medha-Naik/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Medha-Naik/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Medha-Naik/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Medha-Naik/leetcode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Medha-Naik/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Medha-Naik/leetcode/tree/master/0912-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -454,4 +459,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Medha-Naik/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Medha-Naik/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Medha-Naik/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Medha-Naik/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Medha-Naik/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Medha-Naik/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
