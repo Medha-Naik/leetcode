@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Medha-Naik/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Medha-Naik/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Medha-Naik/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Medha-Naik/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Medha-Naik/leetcode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/Medha-Naik/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Medha-Naik/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Medha-Naik/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Medha-Naik/leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Medha-Naik/leetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Medha-Naik/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Medha-Naik/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Medha-Naik/leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Medha-Naik/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Medha-Naik/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0721-accounts-merge](https://github.com/Medha-Naik/leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Medha-Naik/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Medha-Naik/leetcode/tree/master/0785-is-graph-bipartite) |
