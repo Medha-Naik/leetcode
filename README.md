@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Medha-Naik/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Medha-Naik/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Medha-Naik/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Medha-Naik/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Medha-Naik/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Medha-Naik/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Medha-Naik/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Medha-Naik/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Medha-Naik/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Medha-Naik/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Medha-Naik/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Medha-Naik/leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Medha-Naik/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Medha-Naik/leetcode/tree/master/0455-assign-cookies) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Medha-Naik/leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Medha-Naik/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Medha-Naik/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Medha-Naik/leetcode/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/Medha-Naik/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Medha-Naik/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## String Matching
