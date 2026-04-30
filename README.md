@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Medha-Naik/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Medha-Naik/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Medha-Naik/leetcode/tree/master/0035-search-insert-position) |
+| [0047-permutations-ii](https://github.com/Medha-Naik/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Medha-Naik/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Medha-Naik/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Medha-Naik/leetcode/tree/master/0054-spiral-matrix) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Medha-Naik/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Medha-Naik/leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Medha-Naik/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Medha-Naik/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Medha-Naik/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Medha-Naik/leetcode/tree/master/0088-merge-sorted-array) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Medha-Naik/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Medha-Naik/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Medha-Naik/leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
