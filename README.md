@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Medha-Naik/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Medha-Naik/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Medha-Naik/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Medha-Naik/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Medha-Naik/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Medha-Naik/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Medha-Naik/leetcode/tree/master/0542-01-matrix) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Medha-Naik/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Medha-Naik/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Medha-Naik/leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Medha-Naik/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Medha-Naik/leetcode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Medha-Naik/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Medha-Naik/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -525,4 +527,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Medha-Naik/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Medha-Naik/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Medha-Naik/leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Medha-Naik/leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
