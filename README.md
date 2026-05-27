@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Medha-Naik/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Medha-Naik/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Medha-Naik/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Medha-Naik/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Medha-Naik/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Medha-Naik/leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Medha-Naik/leetcode/tree/master/0118-pascals-triangle) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Medha-Naik/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Medha-Naik/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Medha-Naik/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Medha-Naik/leetcode/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Medha-Naik/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Medha-Naik/leetcode/tree/master/0542-01-matrix) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Medha-Naik/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Medha-Naik/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Medha-Naik/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/Medha-Naik/leetcode/tree/master/0130-surrounded-regions) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Medha-Naik/leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Medha-Naik/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Medha-Naik/leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Medha-Naik/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Medha-Naik/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Medha-Naik/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Medha-Naik/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Medha-Naik/leetcode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Medha-Naik/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Medha-Naik/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Medha-Naik/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Medha-Naik/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Medha-Naik/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Medha-Naik/leetcode/tree/master/0216-combination-sum-iii) |
