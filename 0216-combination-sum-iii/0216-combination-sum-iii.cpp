@@ -1,24 +1,25 @@
 class Solution {
 public:
-    void backtrack(int k,int n, vector<vector<int>>&res,vector<int>&curr,int start)
+    void backtrack(vector<int>&curr,vector<vector<int>>&res,int k,int n,int total,int ind)
     {
-        if(curr.size()==k&&n==0)
+        if(curr.size()==k && total==n)
         {
             res.push_back(curr);
             return;
         }
-        if(curr.size()>k||n<0)return;
-        for(int i=start;i<=9;i++)
+        if(total>n||curr.size()>k)return;
+        for(int i=ind;i<=9;i++)
         {
             curr.push_back(i);
-            backtrack(k,n-i,res,curr,i+1);
+            backtrack(curr,res,k,n,total+i,i+1);
             curr.pop_back();
         }
     }
     vector<vector<int>> combinationSum3(int k, int n) {
-        vector<vector<int>>res;
         vector<int>curr;
-        backtrack(k,n,res,curr,1);
+        vector<vector<int>>res;
+        int total=0;
+        backtrack(curr,res,k,n,total,1);
         return res;
     }
 };
