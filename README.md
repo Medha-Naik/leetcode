@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Medha-Naik/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Medha-Naik/leetcode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Medha-Naik/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0282-expression-add-operators](https://github.com/Medha-Naik/leetcode/tree/master/0282-expression-add-operators) |
 | [0424-longest-repeating-character-replacement](https://github.com/Medha-Naik/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Medha-Naik/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Medha-Naik/leetcode/tree/master/0567-permutation-in-string) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Medha-Naik/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Medha-Naik/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Medha-Naik/leetcode/tree/master/0189-rotate-array) |
+| [0282-expression-add-operators](https://github.com/Medha-Naik/leetcode/tree/master/0282-expression-add-operators) |
 | [0523-continuous-subarray-sum](https://github.com/Medha-Naik/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Medha-Naik/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Medha-Naik/leetcode/tree/master/1922-count-good-numbers) |
@@ -541,4 +543,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Medha-Naik/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Medha-Naik/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Medha-Naik/leetcode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Medha-Naik/leetcode/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
