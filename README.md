@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Medha-Naik/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Medha-Naik/leetcode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Medha-Naik/leetcode/tree/master/0231-power-of-two) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Medha-Naik/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Medha-Naik/leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Linked List
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Medha-Naik/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Medha-Naik/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Medha-Naik/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Medha-Naik/leetcode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/Medha-Naik/leetcode/tree/master/1922-count-good-numbers) |
 ## Counting
 |  |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Medha-Naik/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Medha-Naik/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Medha-Naik/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Medha-Naik/leetcode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Medha-Naik/leetcode/tree/master/0282-expression-add-operators) |
 | [0523-continuous-subarray-sum](https://github.com/Medha-Naik/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Medha-Naik/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
