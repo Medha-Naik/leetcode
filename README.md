@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Medha-Naik/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Medha-Naik/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Medha-Naik/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Medha-Naik/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Medha-Naik/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Medha-Naik/leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Medha-Naik/leetcode/tree/master/0217-contains-duplicate) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Medha-Naik/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Medha-Naik/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Medha-Naik/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Medha-Naik/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Medha-Naik/leetcode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Medha-Naik/leetcode/tree/master/0282-expression-add-operators) |
 | [0523-continuous-subarray-sum](https://github.com/Medha-Naik/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -559,4 +561,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Medha-Naik/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Medha-Naik/leetcode/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Medha-Naik/leetcode/tree/master/0282-expression-add-operators) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Medha-Naik/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Medha-Naik/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
