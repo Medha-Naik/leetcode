@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Medha-Naik/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Medha-Naik/leetcode/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/Medha-Naik/leetcode/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/Medha-Naik/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Medha-Naik/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Medha-Naik/leetcode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Medha-Naik/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Medha-Naik/leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Medha-Naik/leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Medha-Naik/leetcode/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/Medha-Naik/leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Medha-Naik/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2560-house-robber-iv](https://github.com/Medha-Naik/leetcode/tree/master/2560-house-robber-iv) |
 ## Recursion
