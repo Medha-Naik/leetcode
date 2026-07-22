@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Medha-Naik/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Medha-Naik/leetcode/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Medha-Naik/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1020-number-of-enclaves](https://github.com/Medha-Naik/leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Medha-Naik/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Medha-Naik/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
