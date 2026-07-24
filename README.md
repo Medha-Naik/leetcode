@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Medha-Naik/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Medha-Naik/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Medha-Naik/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2490-circular-sentence](https://github.com/Medha-Naik/leetcode/tree/master/2490-circular-sentence) |
 ## Union-Find
 |  |
 | ------- |
