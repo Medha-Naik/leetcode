@@ -1,17 +1,20 @@
 class Solution {
 public:
-    
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<int>indegree(numCourses,0);
-        vector<vector<int>>adj(numCourses);
-        for(auto &p: prerequisites)
+        vector<vector<int>>graph(numCourses);
+        for (auto edge: prerequisites)
         {
-            int course=p[0];
-            int prereq=p[1];
-            adj[prereq].push_back(course);
-            indegree[course]++;
+            graph[edge[1]].push_back(edge[0]);
         }
+
+
+        vector<int>indegree(numCourses,0);
         queue<int>q;
+
+        for(int i=0;i<numCourses;i++)
+        {
+            for(auto neighbor:graph[i])indegree[neighbor]++;
+        }
         for(int i=0;i<numCourses;i++)
         {
             if(indegree[i]==0)q.push(i);
@@ -22,12 +25,15 @@ public:
             int node=q.front();
             q.pop();
             cnt++;
-            for(auto it:adj[node])
+            for(auto neighbor:graph[node])
             {
-                indegree[it]--;
-                if(indegree[it]==0)q.push(it);
+                indegree[neighbor]--;
+                if(indegree[neighbor]==0)
+                {
+                    q.push(neighbor);
+                }
             }
         }
-    return cnt==numCourses;
+        return cnt==numCourses;
     }
 };
