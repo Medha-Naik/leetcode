@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Medha-Naik/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Medha-Naik/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Medha-Naik/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Medha-Naik/leetcode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Medha-Naik/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Medha-Naik/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Medha-Naik/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Medha-Naik/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Medha-Naik/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Medha-Naik/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Medha-Naik/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Medha-Naik/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Medha-Naik/leetcode/tree/master/0355-design-twitter) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Medha-Naik/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Medha-Naik/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Medha-Naik/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Medha-Naik/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/Medha-Naik/leetcode/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Medha-Naik/leetcode/tree/master/0282-expression-add-operators) |
 | [0424-longest-repeating-character-replacement](https://github.com/Medha-Naik/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Medha-Naik/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
