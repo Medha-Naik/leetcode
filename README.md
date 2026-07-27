@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Medha-Naik/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Medha-Naik/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Medha-Naik/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/Medha-Naik/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2490-circular-sentence](https://github.com/Medha-Naik/leetcode/tree/master/2490-circular-sentence) |
 ## Union-Find
 |  |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Medha-Naik/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Medha-Naik/leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Medha-Naik/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1903-largest-odd-number-in-string](https://github.com/Medha-Naik/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2560-house-robber-iv](https://github.com/Medha-Naik/leetcode/tree/master/2560-house-robber-iv) |
 ## Recursion
 |  |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Medha-Naik/leetcode/tree/master/0282-expression-add-operators) |
 | [0523-continuous-subarray-sum](https://github.com/Medha-Naik/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Medha-Naik/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1903-largest-odd-number-in-string](https://github.com/Medha-Naik/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Medha-Naik/leetcode/tree/master/1922-count-good-numbers) |
 ## String Matching
 |  |
