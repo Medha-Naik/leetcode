@@ -3,28 +3,30 @@ public:
     MinStack() {
         
     }
-    
-    stack<pair<int,int>>st;
+    stack<int> st;
+    stack<int>minst;
 
     void push(int value) {
-        if(!st.empty())
-        {
-            st.push({value, min(st.top().second,value)});
-        }
+        
 
-         else st.push({value,value});
+        if(st.empty() || value<=minst.top())minst.push(value);
+        st.push(value);
     }
     
     void pop() {
+        if(st.top()==minst.top())
+        {
+            minst.pop();
+        }
         st.pop();
     }
     
     int top() {
-        return st.top().first;
+        return st.top();
     }
     
     int getMin() {
-        return st.top().second;
+        return minst.top();
     }
 };
 
