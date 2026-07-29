@@ -1,21 +1,14 @@
 class Solution {
 public:
     int maxDepth(string s) {
-        int n=s.size();
-        int cur=0;
-        int maxpar=0;
-        for(int i=0;i<n;i++)
+        int curr=0;
+        int maxi= INT_MIN;
+        for(char ch: s)
         {
-            if(s[i]=='(')
-            {
-                cur++;
-                maxpar=max(cur,maxpar);
-            }
-            else if(s[i]==')')
-            {
-                cur--;
-            }
+            if(ch=='('||ch=='{'||ch=='[')curr++;
+            else if(ch==')'||ch=='}'|| ch== ']') curr--;
+            maxi= max(maxi,curr);
         }
-        return maxpar;
+        return maxi;
     }
 };
