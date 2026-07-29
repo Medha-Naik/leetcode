@@ -3,32 +3,29 @@ public:
     int myAtoi(string s) {
         int n = s.size();
         int i = 0;
-        int ans = 0;
-        int isneg = 1;
 
         while (i < n && s[i] == ' ') {
             i++;
         }
 
-        if (i < n && s[i] == '-') {
-            isneg = -1;
-            i++;
-        }
-        else if (i < n && s[i] == '+') {
+        int sign = 1;
+        if (i < n && (s[i] == '+' || s[i] == '-')) {
+            sign = (s[i] == '-') ? -1 : 1;
             i++;
         }
 
+        long long num = 0;
         while (i < n && isdigit(s[i])) {
-            int digit = s[i] - '0';
+            int dig = s[i] - '0';
 
-            if (ans > (INT_MAX - digit) / 10) {
-                return (isneg == -1) ? INT_MIN : INT_MAX;
-            }
+            num = num * 10 + dig;
 
-            ans = ans * 10 + digit;
+            if (sign * num >= INT_MAX) return INT_MAX;
+            if (sign * num <= INT_MIN) return INT_MIN;
+
             i++;
         }
 
-        return ans * isneg;
+        return sign * num;
     }
 };
