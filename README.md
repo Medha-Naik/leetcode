@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Medha-Naik/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Medha-Naik/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Medha-Naik/leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Medha-Naik/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Medha-Naik/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Medha-Naik/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Medha-Naik/leetcode/tree/master/0162-find-peak-element) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Medha-Naik/leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Medha-Naik/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Medha-Naik/leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Medha-Naik/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Medha-Naik/leetcode/tree/master/0231-power-of-two) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Medha-Naik/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Medha-Naik/leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
