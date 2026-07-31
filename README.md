@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Medha-Naik/leetcode/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/Medha-Naik/leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Medha-Naik/leetcode/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/Medha-Naik/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Medha-Naik/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Medha-Naik/leetcode/tree/master/0881-boats-to-save-people) |
 | [0907-sum-of-subarray-minimums](https://github.com/Medha-Naik/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Medha-Naik/leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Medha-Naik/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Medha-Naik/leetcode/tree/master/0827-making-a-large-island) |
+| [0867-transpose-matrix](https://github.com/Medha-Naik/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Medha-Naik/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Medha-Naik/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Medha-Naik/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Medha-Naik/leetcode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/Medha-Naik/leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Medha-Naik/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Medha-Naik/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Memoization
