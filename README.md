@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Medha-Naik/leetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Medha-Naik/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Medha-Naik/leetcode/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/Medha-Naik/leetcode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Medha-Naik/leetcode/tree/master/0881-boats-to-save-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Medha-Naik/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Medha-Naik/leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Medha-Naik/leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Medha-Naik/leetcode/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/Medha-Naik/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Medha-Naik/leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Medha-Naik/leetcode/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/Medha-Naik/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Medha-Naik/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Medha-Naik/leetcode/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/Medha-Naik/leetcode/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/Medha-Naik/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Medha-Naik/leetcode/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Medha-Naik/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Medha-Naik/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Medha-Naik/leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Medha-Naik/leetcode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Medha-Naik/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/Medha-Naik/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Medha-Naik/leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Medha-Naik/leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Medha-Naik/leetcode/tree/master/0860-lemonade-change) |
