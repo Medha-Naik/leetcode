@@ -1,20 +1,18 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        int n = s.size();
         unordered_map<char,int>freq;
         for(char ch:s)
         {
             freq[ch]++;
         }
-        vector<string>bucket(n+1,"");
-        for(auto &[ch,count]:freq)
+        vector<string>bucket(s.size()+1, "");
+        for(auto &[ch,count]: freq)
         {
-            bucket[count].append(count,ch);
+            bucket[count].append(count, ch);
         }
-
         string res = "";
-        for(int i= n; i>=0;i--)
+        for(int i =s.size(); i>=0; i--)
         {
             if(!bucket[i].empty())
             {
