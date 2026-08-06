@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Medha-Naik/leetcode/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/Medha-Naik/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Medha-Naik/leetcode/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/Medha-Naik/leetcode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Medha-Naik/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Medha-Naik/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Medha-Naik/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Medha-Naik/leetcode/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/Medha-Naik/leetcode/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
