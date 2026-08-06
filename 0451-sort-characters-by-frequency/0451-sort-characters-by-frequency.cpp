@@ -12,7 +12,7 @@ public:
             bucket[count].append(count, ch);
         }
         string res = "";
-        for(int i =s.size(); i>=0; i--)
+        for(int i =s.size(); i>0; i--)
         {
             if(!bucket[i].empty())
             {
