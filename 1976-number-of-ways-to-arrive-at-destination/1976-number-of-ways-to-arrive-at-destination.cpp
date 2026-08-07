@@ -1,41 +1,45 @@
 class Solution {
 public:
     int countPaths(int n, vector<vector<int>>& roads) {
-        vector<vector<pair<int,int>>>adj(n);
-        vector<long long>dist(n,1e18);
-        vector<long long>ways(n,0);
-        const int MOD=1e9+7;
-        for(auto it:roads)
+
+        vector<vector<pair<int,int>>>grid(n);
+        int Mod = 1e9+7;
+        for(auto road:roads)
         {
-            adj[it[0]].push_back({it[1],it[2]});
-            adj[it[1]].push_back({it[0],it[2]});
+            grid[road[0]].push_back({road[1],road[2]});
+            grid[road[1]].push_back({road[0],road[2]});
         }
-        priority_queue<pair<long long,int>,vector<pair<long long,int>>,greater<pair<long long,int>>>pq;
+        priority_queue<pair<long long,int>, vector<pair<long long,int>>, greater<pair<long long,int>>>pq;
         pq.push({0,0});
+        vector<long long>dist(n,1e18);
         dist[0]=0;
-        ways[0]=1;
+
+        vector<int>paths(n,0);
+        paths[0] =1 ;
         while(!pq.empty())
         {
-            long long dis=pq.top().first;
-            int node=pq.top().second;
+            long long d = pq.top().first;
+            int node = pq.top().second;
+
             pq.pop();
-            if(dis>dist[node])continue;
-            for(auto it:adj[node])
+            if(d > dist[node])continue;
+
+            for(auto adj:grid[node])
             {
-                int neighbor=it.first;
-                long long distance=it.second;
-                if(dist[neighbor]>dis+distance)
+                int distance = adj.second;
+                int neighbor = adj.first;
+                if(distance+d< dist[neighbor])
                 {
-                    dist[neighbor]=dis+distance;
-                    ways[neighbor]=ways[node];
-                    pq.push({dist[neighbor],neighbor});
+                    dist[neighbor] = distance+d;
+                    paths[neighbor]= paths[node];
+                    pq.push({dist[neighbor], neighbor});
                 }
-                else if(dis+distance==dist[neighbor])
+                else if ( distance+d == dist[neighbor])
                 {
-                    ways[neighbor]=(ways[neighbor]+ways[node])%MOD;
+                    paths[neighbor]=(paths[neighbor]+paths[node])% Mod;
                 }
             }
         }
-        return ways[n-1];
+        return paths[n-1];
     }
 };
