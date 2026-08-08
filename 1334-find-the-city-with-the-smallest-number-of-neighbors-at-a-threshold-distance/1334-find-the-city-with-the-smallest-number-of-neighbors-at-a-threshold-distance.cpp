@@ -1,46 +1,41 @@
 class Solution {
 public:
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
-       vector<vector<int>>adj(n,vector<int>(n,INT_MAX));
-       for(auto edge:edges)
-       {
-        adj[edge[0]][edge[1]]=edge[2];
-        adj[edge[1]][edge[0]]=edge[2];
-       }
-       for(int i=0;i<n;i++)
-       {
-        adj[i][i]=0;
-       }
-       for(int k=0;k<n;k++)
-       {
-       for(int i=0;i<n;i++)
-       {
-        for(int j=0;j<n;j++)
-        {
-            
+        vector<vector<int>>dist(n,vector<int>(n,1e9));
+        for (int i = 0; i < n; i++) dist[i][i] = 0;
         
-                if(adj[i][k]!=INT_MAX&&adj[k][j]!=INT_MAX)
-                {
-                    adj[i][j]=min(adj[i][j],adj[i][k]+adj[k][j]);
-                }
-          }
+        for (auto& edge : edges) {
+            int u = edge[0], v = edge[1], w = edge[2];
+            dist[u][v] = w;
+            dist[v][u] = w;
         }
-       }
-        int ans=-1;
-        int minreachable=n;
+        for(int k =0; k<n; k++)
+        {
         for(int i=0;i<n;i++)
         {
-            int cnt=0;
-            for(int j=0;j<n;j++)
+            for(int j =0; j<n; j++)
             {
-                if(i!=j&&adj[i][j]<=distanceThreshold)cnt++;
-            }
-            if(cnt<=minreachable)
-            {
-                minreachable=cnt;
-                ans=i;
+                dist[i][j] = min(dist[i][j], dist[i][k]+dist[k][j]);
             }
         }
-       return ans;
+        }
+
+
+        int cntcity =n;
+        int city =-1;
+        for(int i =0; i<n; i++)
+        {
+            int cnt =0;
+            for(int j=0; j<n; j++)
+            {
+                if(dist[i][j]<=distanceThreshold)cnt++;
+            }
+            if(cnt<= cntcity)
+            {
+                cntcity = cnt;
+                city = i;
+            }
+        }
+        return city;
     }
 };
