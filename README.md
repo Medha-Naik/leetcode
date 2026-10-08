@@ -826,4 +826,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Medha-Naik/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Medha-Naik/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
