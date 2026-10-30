@@ -12,7 +12,7 @@ public:
         }
 
         if(n<0)break;
-        int end = n+1;
+        int end = n;
 
         while(n>=0&& s[n]!=' ')
         {
@@ -24,10 +24,11 @@ public:
         {
             ans+= " ";
         }
-        for(int i=start; i<end; i++)
+        for(int i=start; i<=end; i++)
         {
             ans+= s[i];
         }
+        n--;
         }
         return ans;
     }
